@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{3C7521D5-DC7F-4697-B0FE-1EFAEDCAFF24}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Pitillo", "Pitillo\Pitillo.fsproj", "{810B7547-0DDF-4DBD-A902-E0EAE511E36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaMariApp", "LaMariApp\LaMariApp.csproj", "{9E84D3BD-9386-4B2B-BE48-2CAB9DCECEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7521D5-DC7F-4697-B0FE-1EFAEDCAFF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7521D5-DC7F-4697-B0FE-1EFAEDCAFF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7521D5-DC7F-4697-B0FE-1EFAEDCAFF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7521D5-DC7F-4697-B0FE-1EFAEDCAFF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810B7547-0DDF-4DBD-A902-E0EAE511E36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810B7547-0DDF-4DBD-A902-E0EAE511E36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810B7547-0DDF-4DBD-A902-E0EAE511E36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810B7547-0DDF-4DBD-A902-E0EAE511E36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E84D3BD-9386-4B2B-BE48-2CAB9DCECEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E84D3BD-9386-4B2B-BE48-2CAB9DCECEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E84D3BD-9386-4B2B-BE48-2CAB9DCECEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E84D3BD-9386-4B2B-BE48-2CAB9DCECEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
